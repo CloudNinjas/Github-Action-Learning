@@ -5,21 +5,21 @@
 In this Learning everything around Github Actions and Workflow will be explained on a basic level to get started. this Learning is focused on the usage in Cloud DevOps Scenarios in which you want to automate infrastructure deployment without the need of maintaining and configuring a CI/CD server. 
 
 ## Chapter 1: Setup
-[Setup](Chapter%201:%20Setup/Setup.md)
+[Setup](../blob/main/Chapter%201:%20Setup/Setup.md)
 
 ## Chapter 2: Basics
-[Basics](Chapter%202:%20Basics/Basics.md)
+[Basics](../blob/main/Chapter%202:%20Basics/Basics.md)
 
 ## Chapter 3: Hello World Action
-[Hello World Action](Chapter%203:%20Hello%20World/Hello_World.md)
+[Hello World Action](../blob/main/Chapter%203:%20Hello%20World/Hello_World.md)
 
 ## Chapter 4: Tools
-[Tools](Chapter%204:%20tools/Tools.md)
+[Tools](../blob/main/Chapter%204:%20tools/Tools.md)
 
 ## Chapter 5: Infrastructure deployment (terraform)
-[Infrastructure deployment](Chapter%205:%20Infrastructure%20deployment/Infrastructure_deployment.md)
+[Infrastructure deployment](../blob/main/Chapter%205:%20Infrastructure%20deployment/Infrastructure_deployment.md)
 
 ## Chapter 6: Enterprise Usage
-[Enterprise Usage: Scenario 1](Chapter%206:%20Enterprise%20Usage/Scenario_1.md)
+[Enterprise Usage: Scenario 1](../blob/main/Chapter%206:%20Enterprise%20Usage/Scenario_1.md)
 
-[Enterprise Usage: Scenario 2](Chapter%206:%20Enterprise%20Usage/Scenario_2.md)
+[Enterprise Usage: Scenario 2](../blob/main/Chapter%206:%20Enterprise%20Usage/Scenario_2.md)
