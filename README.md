@@ -10,7 +10,7 @@ In this Learning everything around Github Actions and Workflow will be explained
 
 ## Chapter 3: Hello World Action
 
-## Chapter 4: Installing Tools
+## Chapter 4: Tools
 
 ## Chapter 5: Infrastructure deployment (terraform)
 
