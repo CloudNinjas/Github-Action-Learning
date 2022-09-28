@@ -10,7 +10,7 @@ But first a screenshot of the UI if you just use the default basic hello world e
 
 Also you can add small ribbons to show the last execution of the action with status (definable from which branch or event/trigger)
 
-![Hello World](https://github.com/CloudNinjas/Github-Action-Learning/blob/main/.github/workflows/hello_world.yml/badge.svg)
+![Hello World](https://github.com/CloudNinjas/Github-Action-Learning/actions/workflows/hello_world.yml/badge.svg)
 ## Trigger ON Part
 
 BLABLUB
