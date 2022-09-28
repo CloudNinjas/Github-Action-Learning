@@ -11,7 +11,7 @@ In this Learning everything around Github Actions and Workflow will be explained
 [Basics](../main/Chapter%202:%20Basics/Basics.md)
 
 ## Chapter 3: Hello World Action
-[Hello World Action](../main/Chapter%203:%20Hello%20World/Hello_World.md)
+[Hello World Action](../main/Chapter%203:%20Hello%20World%20Action/Hello_World.md)
 
 ## Chapter 4: Tools
 [Tools](../main/Chapter%204:%20tools/Tools.md)
