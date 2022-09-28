@@ -8,6 +8,9 @@ But first a screenshot of the UI if you just use the default basic hello world e
 
 ![Hello World YML](../Chapter%203:%20Hello%20World%20Action/Hello_World_yml_start.png?raw=true "Hello World YML")
 
+Also you can add small ribbons to show the last execution of the action with status (definable from which branch or event/trigger)
+
+![Hello World](https://github.com/CloudNinjas/Github-Action-Learning/blob/main/.github/workflows/hello_world.yml/badge.svg)
 ## Trigger ON Part
 
 BLABLUB
