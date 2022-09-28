@@ -6,7 +6,7 @@ All actions are written in basic yml language, that describe easy what the runne
 
 But first a screenshot of the UI if you just use the default basic hello world example from github.com
 
-![Hello World YML](../main/Chapter%203:%20Hello%20World%20Action/Hello_World_yml_start.png?raw=true "Hello World YML")
+![Hello World YML](../Chapter%203:%20Hello%20World%20Action/Hello_World_yml_start.png?raw=true "Hello World YML")
 
 ## Trigger ON Part
 
