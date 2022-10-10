@@ -26,3 +26,4 @@ In this Learning everything around Github Actions and Workflow will be explained
 
 ## Examples
 [Examples](../main/Examples/Examples.md)
+[Curated list of cool actions] (https://github.com/sdras/awesome-actions)
