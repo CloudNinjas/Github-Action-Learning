@@ -1,1 +1,1 @@
-![Architecture](../main/Chapter%206:%20Enterprise%20Usage/platform-high-level-picture-automation.drawio.png)
+![Architecture](../Chapter%206:%20Enterprise%20Usage/platform-high-level-picture-automation.drawio.png)
