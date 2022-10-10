@@ -22,6 +22,6 @@ All of the steps above are helping to build consistent infrastructure deployment
 With "recreating" we mean to be able to create default deployments easy as possible and without having to setup every component individually.
 To achieve this we combine predefined templates, versioned modules, and GitHub Actions.
 
-### Predefined templates
-
-This are tested module calls to create the service you want to create. 
++ **Predefined templates:** This are tested module calls to create the service.
++ **Versioned modules:** This are versions for your modules to be able to refer why deployments might break and to be able to support older versions of your modules.
++ **GitHub Actions:** Pipeline solution we prefer at the moment.
