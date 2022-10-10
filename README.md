@@ -20,7 +20,7 @@ In this Learning everything around Github Actions and Workflow will be explained
  - [Infrastructure deployment](../main/Chapter%205:%20Infrastructure%20deployment/Infrastructure_deployment.md)
 
 ## Chapter 6: Enterprise Usage
- - [Enterprise Usage: Scenario 1](../main/Chapter%206:%20Enterprise%20Usage/Scenario_1.md)
+ - [Enterprise Usage: Scenario 1](çScenario_1.md)
  - [Enterprise Usage: Scenario 2](../main/Chapter%206:%20Enterprise%20Usage/Scenario_2.md)
 
 ## Examples
