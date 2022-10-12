@@ -14,5 +14,6 @@ As already stated in previous chapters we can combine an DevOps mindset with dep
 This means we use pipelines to deploy the single components in a standardized procedure. 
 
 ### Infrastructure as Code
+![Architecture](../Chapter%206:%20Enterprise%20Usage/Infrastructure.drawio.png)
 
 ### Pipelines
